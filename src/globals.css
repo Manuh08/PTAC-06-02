@@ -1,10 +1,16 @@
 header{
-height: 30px;
-background-color: #e96cff;
+
+text-align: center;
+height: 40px;
+background: linear-gradient(rgb(215, 169, 215), rgb(160, 217, 227));
+margin: 0 auto;
 }
 
 footer{
-    height: 0,5px;
-    background-color: aquamarine;
 
+    text-align: center;
+    height: 25px;
+    background: linear-gradient(rgb(215, 169, 215), rgb(160, 217, 227));
+    margin-top: 890px;
+    
 }

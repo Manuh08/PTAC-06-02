@@ -5,6 +5,7 @@ export default function Footer(){
         <p>
             Desenvolvido por: Manuela Soares Pacheco
         </p>
+        
     </footer>
 
   );
