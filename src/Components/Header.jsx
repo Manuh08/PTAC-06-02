@@ -1,10 +1,7 @@
-export default function Header (){
-
+export default function Header(){
     return(
         <header>
-            
-            <h1>My app</h1>
-           
+            <p>Minha Agenda</p>
         </header>
     );
 }
