@@ -3,11 +3,21 @@ header{
     height: 40px;
     background: linear-gradient(rgb(215, 169, 215), rgb(160, 217, 227));
     margin: 0 auto;
+    color: rgb(0, 0, 0);
+
 }
 
 footer{
     text-align: center;
     height: 25px;
     background: linear-gradient(rgb(215, 169, 215), rgb(160, 217, 227));
-    margin-top: 890px;
+}
+
+main{
+height: 870px;
+text-align: center;
+margin-top: 25px;
+}
+h2,body,html{
+    margin: 0px;
 }

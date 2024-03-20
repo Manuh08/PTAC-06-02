@@ -5,11 +5,11 @@ import "./globals.css"
 
 export default function App(){
   return (
-    <main>
+    <div>
       <Header/>
       <Main/>
       <Footer/>
-    </main>
+    </div>
   );
 
 
