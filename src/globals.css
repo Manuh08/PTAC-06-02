@@ -14,10 +14,17 @@ footer{
 }
 
 main{
-height: 870px;
+height: 845px;
 text-align: center;
 margin-top: 25px;
 }
 h2,body,html{
     margin: 0px;
+}
+
+button{
+    font-family: American Typewrioter, serif;
+    border-radius: 8px;
+    background: linear-gradient(rgb(215, 169, 215), rgb(160, 217, 227));
+    font-size: 21px;
 }
