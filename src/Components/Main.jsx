@@ -47,6 +47,12 @@ export default function Main(){
 
 
         </form>
+        {  listaContatos.map((contato, index)=>
+        <div key={index}>
+        <p >{contato.nomeSalvo}</p>   
+        <p>{contato.telefoneSalvo}</p>
+        </div>
+        )}
         </main>
     );
-}
+    }
